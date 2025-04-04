@@ -1,0 +1,10 @@
+2025-04-04 11:55:50.292920 - Received CBT.V508.FILE568.PDS from FILE568.XMI 
+2025-04-04 11:55:50.293548 - Found ZNC1010P.bin (application/octet-stream) in CBT.V508.FILE568.PDS, moved to PDS/ZNC1010P
+2025-04-04 11:55:50.293683 - Found ZNC1020P.bin (application/octet-stream) in CBT.V508.FILE568.PDS, moved to PDS/ZNC1020P
+2025-04-04 11:55:50.293819 - Found ZNC1030P.bin (application/octet-stream) in CBT.V508.FILE568.PDS, moved to PDS/ZNC1030P
+2025-04-04 11:55:50.293940 - Found ZNC1040P.bin (application/octet-stream) in CBT.V508.FILE568.PDS, moved to PDS/ZNC1040P
+2025-04-04 11:55:50.294062 - Found ZNC1050P.bin (application/octet-stream) in CBT.V508.FILE568.PDS, moved to PDS/ZNC1050P
+2025-04-04 11:55:50.294200 - Found ZNC1060P.bin (application/octet-stream) in CBT.V508.FILE568.PDS, moved to PDS/ZNC1060P
+2025-04-04 11:55:50.294326 - Found ZNC1070P.bin (application/octet-stream) in CBT.V508.FILE568.PDS, moved to PDS/ZNC1070P
+2025-04-04 11:55:50.294461 - Found ZNC1080P.bin (application/octet-stream) in CBT.V508.FILE568.PDS, moved to PDS/ZNC1080P
+2025-04-04 11:55:50.294610 - Found ZNC1110P.bin (application/octet-stream) in CBT.V508.FILE568.PDS, moved to PDS/ZNC1110P
